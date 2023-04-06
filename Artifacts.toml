@@ -1,0 +1,46 @@
+[[HSL]]
+arch = "aarch64"
+git-tree-sha1 = "01e6e575498bd2e8f5abe223e63928f331caa971"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HSL.download]]
+    sha256 = "874fe34886377d600f20b06a329b94a74dac27e2b171baaed22b7972a9acde93"
+    url = "https://github.com/amontoison/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.aarch64-apple-darwin-libgfortran5.tar.gz"
+[[HSL]]
+arch = "x86_64"
+git-tree-sha1 = "eebb3ce1ca533dc1356c7e9c8e18df5799735611"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[HSL.download]]
+    sha256 = "94ed36a07847312cbd48a59331da86b306773016ae17b8afe914b06e252a1577"
+    url = "https://github.com/amontoison/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-apple-darwin-libgfortran4.tar.gz"
+[[HSL]]
+arch = "x86_64"
+git-tree-sha1 = "eebb3ce1ca533dc1356c7e9c8e18df5799735611"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[HSL.download]]
+    sha256 = "94ed36a07847312cbd48a59331da86b306773016ae17b8afe914b06e252a1577"
+    url = "https://github.com/amontoison/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-apple-darwin-libgfortran5.tar.gz"
+[[HSL]]
+arch = "x86_64"
+git-tree-sha1 = "ffc68765108c20907adf70e6d29f2340afec4e60"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[HSL.download]]
+    sha256 = "c8527db19cbd9760e1cb22b3a5406bbf1b32d065346d32b50d0b3cde96eb4e50"
+    url = "https://github.com/amontoison/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[HSL]]
+arch = "x86_64"
+git-tree-sha1 = "1c30ca362bc69d0fdbaf5ca0117a5752ea7a4ace"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[HSL.download]]
+    sha256 = "2d3d2a6cb8b8254373115488d4b224d66006d03ba5910353e07cdfe43703218c"
+    url = "https://github.com/amontoison/HSL_jll.jl/releases/download/HSL-v1.0.0+0/HSL.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
